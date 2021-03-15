@@ -126,8 +126,13 @@ d3.pairs([10, 20, 30, 40]); // [[10, 20], [20, 30], [30, 40]]
 d3.zip([10, 20], [30, 40]); // [[10, 20], [30, 40]]
 
 // scale: create scale, set domain, set range
-d3.scaleLinear().domain(d3.extent(data)).range([0, width]);
- // axis: create axis
+let xscale = d3.scaleLinear().domain(d3.extent(data)).range([0, width]);
+// axis: create axis, apply scale
+let xaxis = d3.axisBottom().scale(xscale);
+// apply axis
+d3.select('#body').append('svg')
+    .append('g').attr('transform', `translate(50, ${height})`).call(xaxis);
+
 
 /*
 const width = 500;

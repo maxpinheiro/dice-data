@@ -1,0 +1,20 @@
+date,rolls,sum,time,day of week,temperature,forecast,roll 1,roll 2
+2/24/21,"4, 6",10,23:55,wednesday,46,rainy,4,6
+2/25/21,"5, 3",8,11:05,thursday,43,sunny,5,3
+2/26/21,"2, 2",4,22:30,friday,36,clear,2,2
+2/27/21,"3, 6",9,1:00,saturday,34,clear,3,6
+2/28/21,"4, 4",8,16:10,sunday,45,cloudy,4,4
+3/1/21,"6, 4",10,16:45,monday,45,cloudy,6,4
+3/2/21,"1,6",7,13:00,tuesday,21,sunny,1,6
+3/3/21,"6,5",11,15:30,wednesday,43,cloudy,6,5
+3/4/21,"3,4",7,9:05,thursday,36,cloudy,3,4
+3/5/21,"6,5",11,18:15,friday,30,cloudy,6,5
+3/6/21,"3,6",9,15:00,saturday,37,cloudy,3,6
+3/7/21,"3,5",8,21:10,sunday,30,clear,3,5
+3/8/21,"2,5",7,20:50,monday,40,cloudy,2,5
+3/9/21,"1,4",5,22:00,tuesday,43,clear,1,4
+3/10/21,"4,4",8,8:45,wednesday,43,sunny,4,4
+3/11/21,"4,6",10,10:00,thursday,52,cloudy,4,6
+3/12/21,"5,6",11,14:15,friday,63,sunny,5,6
+3/13/21,"2,5",7,7:30,saturday,32,sunny,2,5
+3/14/21,"5,5",10,17:10,sunday,34,cloudy,5,5
