@@ -4,15 +4,27 @@
     <meta charset="UTF-8">
     <title>Dice Data Visualization</title>
     <link rel="icon" type="image" href="https://pngimg.com/uploads/dice/dice_PNG47.png">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
     <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
 </head>
 <body>
-    Die Frequencies
-    <div id="die-piechart"></div>
-    Roll Histogram
-    <div id="roll-histogram"></div>
-    Sum Histogram
-    <div id="sum-histogram"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                Roll Frequencies
+                <div id="die-piechart"></div>
+            </div>
+            <div class="col">
+                Roll Histogram
+                <div id="roll-histogram"></div>
+            </div>
+            <div class="col">
+                Sum Histogram
+                <div id="sum-histogram"></div>
+            </div>
+        </div>
+    </div>
     <script type="text/javascript" src="index.js"></script>
 </body>
 </html>
