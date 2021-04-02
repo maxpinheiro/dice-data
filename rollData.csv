@@ -28,3 +28,11 @@ date,rolls,sum,time,day of week,temperature,forecast,roll 1,roll 2,rolling avera
 3/22/21,"3,1",4,21:45,monday,48,clear,3,1,7.518518519
 3/23/21,"3,2",5,0:30,tuesday,52,cloudy,3,2,7.428571429
 3/24/21,"2,6",8,21:30,wednesday,55,cloudy,2,6,7.448275862
+3/25/21,"3,6",9,19:30,thursday,61,cloudy,3,6,7.5
+3/26/21,"5,6",11,6:45,friday,55,cloudy,5,6,7.612903226
+3/27/21,"2,4",6,9:30,saturday,45,cloudy,2,4,7.5625
+3/28/21,"4,2",6,18:30,sunday,50,sunny,4,2,7.515151515
+3/29/21,"3,3",6,20:00,monday,48,clear,3,3,7.470588235
+3/30/21,"3,5",8,19:00,tuesday,50,sunny,3,5,7.485714286
+3/31/21,"6,1",7,20:30,wednesday,61,cloudy,6,1,7.472222222
+4/1/21,5.6,11,10:45,thursday,43,cloudy,5,6,7.567567568
